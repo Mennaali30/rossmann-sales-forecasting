@@ -40,3 +40,4 @@ To re-run the notebook, download `train.csv` and `store.csv` from the [Kaggle co
 Python, pandas, scikit-learn, XGBoost, Streamlit, joblib.
 
 Author: Menna Ali Abdelrahman · NextGen Institute Machine Learning final project
+ **Live app:** [https://rossmann-forecast-menna.streamlit.app/]
