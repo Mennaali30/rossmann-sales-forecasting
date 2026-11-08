@@ -43,7 +43,9 @@ Author: Menna Ali Abdelrahman · NextGen Institute Machine Learning final projec
  **Live app:** [https://rossmann-forecast-menna.streamlit.app/]
 ## Project Presentation
 ## Project Presentation
-![App screenshot](images/app_screenshot.png)
+**Live app:** https://rossmann-forecast-menna.streamlit.app
+
+![App screenshot](images/app_screenshot.PNG)
 
 ### Model comparison
 ![Model comparison](images/model_comparison.png)
@@ -53,5 +55,9 @@ Author: Menna Ali Abdelrahman · NextGen Institute Machine Learning final projec
 
 ### What drives the predictions
 ![Feature importance](images/feature_importance.png)
+
+### Daily forecast with and without promotion
+![With promotion](images/app_daily_table_with_promo.PNG)
+![Without promotion](images/app_daily_table_without_promo.PNG)
 
 [View / Download Presentation](./Store_Sales_Forecasting.pptx)
