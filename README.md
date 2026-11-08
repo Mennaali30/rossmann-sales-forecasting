@@ -42,4 +42,6 @@ Python, pandas, scikit-learn, XGBoost, Streamlit, joblib.
 Author: Menna Ali Abdelrahman · NextGen Institute Machine Learning final project
  **Live app:** [https://rossmann-forecast-menna.streamlit.app/]
 ## Project Presentation
-[View / Download Presentation](presentation.pptx)
+## Project Presentation
+
+[View / Download Presentation](./Store_Sales_Forecasting.pptx)
