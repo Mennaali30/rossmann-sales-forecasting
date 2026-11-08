@@ -43,5 +43,15 @@ Author: Menna Ali Abdelrahman · NextGen Institute Machine Learning final projec
  **Live app:** [https://rossmann-forecast-menna.streamlit.app/]
 ## Project Presentation
 ## Project Presentation
+![App screenshot](images/app_screenshot.png)
+
+### Model comparison
+![Model comparison](images/model_comparison.png)
+
+### Test period: actual vs. predicted
+![Test predictions](images/test_predictions.png)
+
+### What drives the predictions
+![Feature importance](images/feature_importance.png)
 
 [View / Download Presentation](./Store_Sales_Forecasting.pptx)
